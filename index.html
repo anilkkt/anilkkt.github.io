@@ -1,73 +1,38 @@
-<!doctype html>
-<html lang="en" prefix="og: http://ogp.me/ns#">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- CLEAN MARKUP = GOOD KARMA.
-      Hi source code lover,
-
-      you're a curious person and a fast learner ;)
-      Let's make something beautiful together. Contribute on Github:
-      https://github.com/webslides/webslides
-
-      Thanks,
-      @jlantunez.
-    -->
-
-    <!-- SEO -->
-    <title>WebSlides: Making HTML presentations easy</title>
-    <meta name="description" content="WebSlides is the easiest way to make HTML presentations, portfolios, and landings. Just essential features.">
-
-    <!-- URL CANONICAL -->
-    <!-- <link rel="canonical" href="http://your-url.com/"> -->
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,700,700i%7CMaitree:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
-
-    <!-- CSS WebSlides -->
-    <link rel="stylesheet" type='text/css' media='all' href="static/css/webslides.css">
-
-    <!-- Optional - CSS SVG Icons (Font Awesome) -->
-    <link rel="stylesheet" type='text/css' media='all' href="static/css/svg-icons.css">
-
-    <!-- Android -->
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="theme-color" content="#333333">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
   </head>
   <body>
-    <header role="banner">
-      <nav role="navigation">
-        <p class="logo"><a href="index.html" title="Bulliten">Bulliten</a></p>
-      </nav>
-      <p>
-        Telugu Christian Believers - Program portal.
-      </p>
-    </header>
+    <h1>Program Generator</h1>
+    <div>
+      <label for="nextDate">Program Date:</label>
+      <input type="date" id="nextDate" name="nextDate">
+      <br/>
+      <p></p>
 
-    <h1>Welcome to Program Generator</h1>
+      <label>Slide Generator</label>
+      <button type="button" onclick="addUrlControl()">Add Url</button>
+      <button type="button"onclick="addContentControl()">Add Content</button>
+      <form action="/action_page.php">
+        <label>Songs List</label>
+        <div id="songsList">
+        <table id=tblSongsList>
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </table>
+        </div>
+        <button type="button" onclick="generateSlides()">Generate</button>
+        <button type="button"onclick="appendSlides()">Append</button>
+      </form>
+    </div>
 
-    <h2>Date: </h2> <input readonly id="nextDate">
-
-    <!-- end main -->
-
-   <!-- A global footer -->
-
-     <footer role="contentinfo">
-      <div class="wrap">
-        <p> Telugu Christian Believers Stl.</p>
-      </div>
-    </footer> 
-
-    <!-- Required -->
-    <script src="scripts/generate.js"></script>
-    <script>
-        document.getElementById('nextDate').innerText = ""
-    </script>
-
-    <!-- OPTIONAL - svg-icons.js (fontastic.me - Font Awesome as svg icons) -->
-    <script defer src="static/js/svg-icons.js"></script>
-
+    <script src="src/script.js"></script>
   </body>
 </html>
