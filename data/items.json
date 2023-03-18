@@ -1,0 +1,867 @@
+[
+  {
+    "name": "chocklet chip cookies",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "chips jalapino",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "popcorn",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "sliced bread",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "round bread",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "muffins blueberry",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "muffins chocklet",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "trail mix",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "butter cookies",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "limes",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "cilantro",
+    "measure": "pack",
+    "stores": "aldi,indian"
+  },
+  {
+    "name": "garlic peeled",
+    "measure": "pack",
+    "stores": "aldi,costco"
+  },
+  {
+    "name": "garlic whole",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "carrot",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "baby carrot",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "spnach",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "mushrooms brown",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "mushrooms white",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "grapes",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "apples",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "cantalope",
+    "measure": "number",
+    "stores": "aldi"
+  },
+  {
+    "name": "pine apple",
+    "measure": "number",
+    "stores": "aldi"
+  },
+  {
+    "name": "pomogranets",
+    "measure": "number",
+    "stores": "aldi"
+  },
+  {
+    "name": "water melon",
+    "measure": "number",
+    "stores": "aldi"
+  },
+  {
+    "name": "banana",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "kiwi",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "cherry",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "strawberries",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "lettuice",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "whole milk",
+    "measure": "can",
+    "stores": "aldi"
+  },
+  {
+    "name": "reduced milk",
+    "measure": "can",
+    "stores": "aldi"
+  },
+  {
+    "name": "eggs",
+    "measure": "box",
+    "stores": "aldi"
+  },
+  {
+    "name": "onions white",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "onions yellow",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "cucumber",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "sweet corn",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "potatos",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "tomatos",
+    "measure": "pack",
+    "stores": "aldi,indian"
+  },
+  {
+    "name": "avacado",
+    "measure": "number",
+    "stores": "aldi"
+  },
+  {
+    "name": "ranch",
+    "measure": "bottle",
+    "stores": "aldi"
+  },
+  {
+    "name": "ketchup",
+    "measure": "bottle",
+    "stores": "aldi"
+  },
+  {
+    "name": "mayonase",
+    "measure": "bottle",
+    "stores": "aldi,costco,schnucks"
+  },
+  {
+    "name": "coke",
+    "measure": "can",
+    "stores": "aldi,costco,schnucks"
+  },
+  {
+    "name": "diet coke",
+    "measure": "can",
+    "stores": "aldi,costco,schnucks"
+  },
+  {
+    "name": "sprite",
+    "measure": "can",
+    "stores": "aldi"
+  },
+  {
+    "name": "ziplock gallon",
+    "measure": "box",
+    "stores": "aldi"
+  },
+  {
+    "name": "Ziplock quart",
+    "measure": "box",
+    "stores": "aldi"
+  },
+  {
+    "name": "ziplock sandwich",
+    "measure": "box",
+    "stores": "aldi"
+  },
+  {
+    "name": "paper plates",
+    "measure": "pack",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "paper bowels",
+    "measure": "pack",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "kitchen towels",
+    "measure": "pack",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "spoons",
+    "measure": "pack",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "forks",
+    "measure": "pack",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "bath tissues",
+    "measure": "pack",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "laundry pods",
+    "measure": "pack",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "shampoo",
+    "measure": "bottle",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "conditioner",
+    "measure": "bottle",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "tooth brush",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "chocklet",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "cheeze",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "butter salted",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "hummus",
+    "measure": "number",
+    "stores": "aldi"
+  },
+  {
+    "name": "salt",
+    "measure": "bottle",
+    "stores": "aldi"
+  },
+  {
+    "name": "canola oil",
+    "measure": "bottle",
+    "stores": "aldi"
+  },
+  {
+    "name": "coconut oil",
+    "measure": "bottle",
+    "stores": "aldi"
+  },
+  {
+    "name": "oil spray",
+    "measure": "bottle",
+    "stores": "aldi"
+  },
+  {
+    "name": "sugar",
+    "measure": "bag",
+    "stores": "aldi"
+  },
+  {
+    "name": "flour allpurpose",
+    "measure": "bag",
+    "stores": "aldi"
+  },
+  {
+    "name": "pizza frozen",
+    "measure": "number",
+    "stores": "aldi"
+  },
+  {
+    "name": "pasta",
+    "measure": "box",
+    "stores": "aldi"
+  },
+  {
+    "name": "ice cream",
+    "measure": "can",
+    "stores": "aldi"
+  },
+  {
+    "name": "tilapia fillets",
+    "measure": "bag",
+    "stores": "aldi"
+  },
+  {
+    "name": "frozen fires",
+    "measure": "bag",
+    "stores": "aldi"
+  },
+  {
+    "name": "frozen nuggets",
+    "measure": "bag",
+    "stores": "aldi"
+  },
+  {
+    "name": "frozen chicken pieces",
+    "measure": "bag",
+    "stores": "aldi"
+  },
+  {
+    "name": "green peas",
+    "measure": "bag",
+    "stores": "indian, aldi"
+  },
+  {
+    "name": "chicken",
+    "measure": "bag",
+    "stores": "aldi"
+  },
+  {
+    "name": "dates",
+    "measure": "box",
+    "stores": "aldi"
+  },
+  {
+    "name": "water bottles",
+    "measure": "pack",
+    "stores": "costco,aldi"
+  },
+  {
+    "name": "ginger",
+    "measure": "bag",
+    "stores": "indian, aldi"
+  },
+  {
+    "name": "yogurt",
+    "measure": "can",
+    "stores": "indian, aldi"
+  },
+  {
+    "name": "methi leaves",
+    "measure": "bundle",
+    "stores": "indian"
+  },
+  {
+    "name": "curry leaves",
+    "measure": "bundle",
+    "stores": "indian"
+  },
+  {
+    "name": "mint leaves",
+    "measure": "bundle",
+    "stores": "indian"
+  },
+  {
+    "name": "green chillies",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "yogurt cream",
+    "measure": "can",
+    "stores": "aldi"
+  },
+  {
+    "name": "whole chicken",
+    "measure": "number",
+    "stores": "mideast, indian"
+  },
+  {
+    "name": "mutton",
+    "measure": "pack",
+    "stores": "mideast, indian"
+  },
+  {
+    "name": "mustard seeds",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "cumin seeds",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "cardamum",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "black cardamum",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "javithri",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "star anis",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "biriyani flower",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "cinnamon sticks",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "black cinnamon",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "fenu greek seeds",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "voma",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "poppy seeds",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "kisimis",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "cachews",
+    "measure": "pack",
+    "stores": "aldi, indian"
+  },
+  {
+    "name": "pista",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "pista shells",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "roasted cachews",
+    "measure": "pack",
+    "stores": "aldi"
+  },
+  {
+    "name": "coconut powder",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "food color",
+    "measure": "bottle",
+    "stores": "indian"
+  },
+  {
+    "name": "gongura",
+    "measure": "bundle",
+    "stores": "indian"
+  },
+  {
+    "name": "gangavail kura",
+    "measure": "bundle",
+    "stores": "indian"
+  },
+  {
+    "name": "shai jeera",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "shahi Biriyani masala",
+    "measure": "box",
+    "stores": "indian"
+  },
+  {
+    "name": "samosa",
+    "measure": "number",
+    "stores": "indian"
+  },
+  {
+    "name": "tiger biscuts",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "parlig biscuts",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "britania biscuts",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "biscuts",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "kurkure",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "lays",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "boost",
+    "measure": "bottle",
+    "stores": "indian"
+  },
+  {
+    "name": "pickle",
+    "measure": "bottle",
+    "stores": "indian"
+  },
+  {
+    "name": "santoor soaps",
+    "measure": "number",
+    "stores": "indian"
+  },
+  {
+    "name": "parachute oil",
+    "measure": "bottle",
+    "stores": "indian"
+  },
+  {
+    "name": "rose water",
+    "measure": "bottle",
+    "stores": "indian"
+  },
+  {
+    "name": "kasoor methi",
+    "measure": "box",
+    "stores": "indian"
+  },
+  {
+    "name": "zandu balm",
+    "measure": "number",
+    "stores": "indian"
+  },
+  {
+    "name": "vicks vaporub",
+    "measure": "number",
+    "stores": "indian"
+  },
+  {
+    "name": "combs",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "die brush",
+    "measure": "number",
+    "stores": "indian"
+  },
+  {
+    "name": "jagerry",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "dry coconut",
+    "measure": "number",
+    "stores": "indian"
+  },
+  {
+    "name": "cloves",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "tea powder",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "coffee powder",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "basmathi rice",
+    "measure": "bag",
+    "stores": "indian"
+  },
+  {
+    "name": "sona masoori rice",
+    "measure": "bag",
+    "stores": "indian"
+  },
+  {
+    "name": "brown sona masoori",
+    "measure": "bag",
+    "stores": "indian"
+  },
+  {
+    "name": "idli rice",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "multigrain atta",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "wheat flour",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "moong dal",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "mysore dal",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "whole moong dal",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "urad dal",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "urad dal whole",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "toor dal",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "peanuts",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "vermicelli plain",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "vermicelli roated",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "sooji",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "idli ravva",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "rice flour",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "besan",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "putnal",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "chena dal",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "raagulu",
+    "measure": "pack",
+    "stores": "indian"
+  },
+  {
+    "name": "kakarkaya",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "dondakaya",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "bendakaya",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "beerakaya",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "vankaya",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "chikkudukaya",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "beans",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "batani whole",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "drum sticks",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "jamakaya",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "beetroot",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "chamagadda",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "pullakanda",
+    "measure": "grams",
+    "stores": "indian"
+  },
+  {
+    "name": "dish detergent",
+    "measure": "pack",
+    "stores": "costco"
+  },
+  {
+    "name": "dish pods",
+    "measure": "pack",
+    "stores": "costco"
+  },
+  {
+    "name": "floor cleaner",
+    "measure": "bottle",
+    "stores": "walmart"
+  },
+  {
+    "name": "floor mops dry",
+    "measure": "box",
+    "stores": "costco"
+  },
+  {
+    "name": "handwash refil",
+    "measure": "bottle",
+    "stores": "walmart"
+  }
+]
