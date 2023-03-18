@@ -1,0 +1,34 @@
+[
+  {
+    "messure": "bag",
+    "quantity": "half,small,big,bigger"
+  },
+  {
+    "messure": "bottle",
+    "quantity": "1,2,3,4,5,10,12,20,24,32,40"
+  },
+  {
+    "messure": "box",
+    "quantity": "1,2,3,4,5,10"
+  },
+  {
+    "messure": "bundle",
+    "quantity": "half,big,small"
+  },
+  {
+    "messure": "can",
+    "quantity": "1,2,3,4,5,10,12,20,24,32,40"
+  },
+  {
+    "messure": "grams",
+    "quantity": "50,100,150,.."
+  },
+  {
+    "messure": "number",
+    "quantity": "1,2,3,4,5,10,12,20,24,32,40"
+  },
+  {
+    "messure": "pack",
+    "quantity": "mini,small,big,bigger"
+  }
+]
