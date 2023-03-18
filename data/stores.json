@@ -1,0 +1,30 @@
+[
+  {
+    "name": "aldi",
+    "address": "123 asdf"
+  },
+  {
+    "name": "walmart",
+    "address": "123 asdf"
+  },
+  {
+    "name": "walgreens",
+    "address": "123 asdf"
+  },
+  {
+    "name": "spicebazar",
+    "address": "123 asdf"
+  },
+  {
+    "name": "dollartree",
+    "address": "123 asdf"
+  },
+  {
+    "name": "schnucks",
+    "address": "123 asdf"
+  },
+  {
+    "name": "costco",
+    "address": "123 asdf"
+  }
+]
