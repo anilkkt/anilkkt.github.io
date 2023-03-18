@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  </head>
+  <body>
+    <h1>Program Generator</h1>
+    <div>
+      <label for="nextDate">Program Date:</label>
+      <input type="date" id="nextDate" name="nextDate">
+      <br/>
+      <p></p>
+
+      <label>Slide Generator</label>
+      <button type="button" onclick="addUrlControl()">Add Url</button>
+      <button type="button"onclick="addContentControl()">Add Content</button>
+      <form action="/action_page.php">
+        <label>Songs List</label>
+        <div id="songsList">
+        <table id=tblSongsList>
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </table>
+        </div>
+        <button type="button" onclick="generateSlides()">Generate</button>
+        <button type="button"onclick="appendSlides()">Append</button>
+      </form>
+    </div>
+
+    <script src="scripts/generate.js"></script>
+  </body>
+</html>
