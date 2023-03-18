@@ -1,38 +1,57 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="src/style.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-  </head>
-  <body>
-    <h1>Program Generator</h1>
-    <div>
-      <label for="nextDate">Program Date:</label>
-      <input type="date" id="nextDate" name="nextDate">
-      <br/>
-      <p></p>
+<html>
 
-      <label>Slide Generator</label>
-      <button type="button" onclick="addUrlControl()">Add Url</button>
-      <button type="button"onclick="addContentControl()">Add Content</button>
-      <form action="/action_page.php">
-        <label>Songs List</label>
-        <div id="songsList">
-        <table id=tblSongsList>
-          <tr>
-            <th></th>
-            <th></th>
-            <th></th>
-          </tr>
-        </table>
-        </div>
-        <button type="button" onclick="generateSlides()">Generate</button>
-        <button type="button"onclick="appendSlides()">Append</button>
-      </form>
-    </div>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
-    <script src="scripts/generate.js"></script>
-  </body>
+<body>
+
+<table style="width:100%">
+	<tr>
+		<td>
+			<h2 class="title">Cart</h2>
+		</td>
+		<td align="right">
+			<i class="fa fa-refresh"></i>
+		</td>
+	</tr>
+	<tr>
+		<td><p class="title">Look/Edit your cart</p></td>
+	</tr>
+	<tr><td>&nbsp</td></tr>
+</table>
+	<div class="tab">
+		<button class="tablinks" onclick="selectTab(event, 'stores')">Stores</button>
+		<button class="tablinks" onclick="selectTab(event, 'cart')">Cart</button>
+		<button class="tablinks" onclick="selectTab(event, 'shopped')">Shopped</button>
+		<button class="tablinks" onclick="selectTab(event, 'edit')">Edit</button>
+	</div>
+
+	<div id="stores" class="tabcontent">
+		<p>Please select the strore you are in:</p> <br/>
+	</div>
+	
+	<div id="cart" class="tabcontent">
+
+	</div>
+
+	<div id="shopped" class="tabcontent">
+		<h3>Paris</h3>
+		<p>Paris is the capital of France.</p>
+	</div>
+
+	<div id="edit" class="tabcontent">
+			<div id="itemSearch">
+				<input class="searchbox" type="text" placeholder="Search.." name="items" list="items"
+				onchange="addSelectionItem(this);">
+				<datalist id="items">
+				</datalist>
+			</div>
+			<div id="itemList">
+			</div>
+	</div>
+</body>
+
 </html>
