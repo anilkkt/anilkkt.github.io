@@ -1,5 +1,9 @@
 
-body {font-family: Arial; font-size:18px}
+body {
+  font-family: Arial;
+  font-size:18px;
+  overflow: auto; /* Hide scrollbars */
+}
 
 /* Style the tab */
 .tab {
@@ -36,7 +40,7 @@ body {font-family: Arial; font-size:18px}
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
-  overflow-y:auto;
+  overflow-y: auto;
 }
 
 .title {
@@ -52,12 +56,11 @@ body {font-family: Arial; font-size:18px}
   background-color: #777;
   color: white;
   cursor: pointer;
-  padding: 18px;
-  width: 100%;
+  padding: 12px;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .active, .collapsible:hover {
@@ -71,8 +74,63 @@ body {font-family: Arial; font-size:18px}
   background-color: #f1f1f1;
 }
 
+input.largerCheckbox {
+  width: 24px;
+  height: 24px;
+  padding-left: 1px;
+}
+
+label.largerCheckbox {
+  padding-top: -50px;
+  padding-left: 10px;
+}
+
+.btn-group-bar {
+  background-color: #04AA6D;
+  border: none;
+  outline: none;
+}
+
+.btn-group button {
+  background-color: #04AA6D; /* Green background */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 5px 14px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+
 .searchbox
 {
     font-size:16pt;
-    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.visible-text
+{
+    font-size:12pt;
+}
+
+.right {
+  position: absolute;
+  left: 80%;
+  margin-top: 10px;
+  -ms-transform: translate(-90%, -50%);
+  transform: translate(-90%, -50%);
 }
