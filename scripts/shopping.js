@@ -350,6 +350,9 @@ function clearSelection(name) {
 
 function readSelection(name) {
   var data = localStorage.getItem(name);
+  if (!data) {
+    return [];
+  }  
   var list = JSON.parse(data);
   list.sort( compareCheck );
   return list;
