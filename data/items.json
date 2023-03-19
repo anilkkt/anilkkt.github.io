@@ -265,6 +265,11 @@
     "stores": "costco,aldi"
   },
   {
+    "name": "jam grape",
+    "measure": "bottle",
+    "stores": "aldi, schnucks"
+  },
+  {
     "name": "bath tissues",
     "measure": "pack",
     "stores": "costco,aldi"
