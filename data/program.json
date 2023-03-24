@@ -1,0 +1,28 @@
+{
+  "date": "03/22/2023",
+  "title": "TCB Family Prayer",
+  "subtitle": "subTitle",
+  "sections": [
+    {
+      "name": "Songs",
+      "title": "Songs",
+      "subtitle": "Worship",
+      "content": [
+        {
+          "heading": "How Great Though Art",
+          "slides": [
+            {
+              "lines": [
+                "Oh Lord, my God",
+                "When I, in awesome wonder",
+                "Consider all the worlds Thy hands have made",
+                "I see the stars, I hear the rolling thunder",
+                "Thy power throughout the universe displayed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
