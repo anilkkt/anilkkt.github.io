@@ -1,0 +1,153 @@
+
+        html {
+            height:100%;
+            box-sizing: border-box;
+        }
+
+        body {
+            height:100%;
+            background-color: #fff;
+            color: #333;
+            font: 1.2em / 1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
+            padding: 0;
+            margin: 0;
+        }
+
+        * {
+            box-sizing: inherit;
+        }
+
+        container {
+            height: 100%
+        }
+
+        .wrapper {
+            min-height: 100%;
+            display: grid;
+            grid-template-rows: auto 1fr auto;
+        }
+
+        .page-header {
+            background-color: rgb(75, 70, 74);
+            color: #fff;
+            padding: 6px;
+            padding-left: 20px;
+            font-size: xx-large;
+        }
+
+        .page-footer {
+            background-color: rgb(75, 70, 74);
+            color: #fff;
+            padding: 2px;
+            padding-left: 20px;
+        }
+
+        .header {
+            padding: 2px;
+        }
+
+        .page-body {
+            padding: 20px;
+        }
+
+        .show {
+            display: block;
+        }
+
+        .slide {
+            padding: 2px;
+        }
+
+        .title {
+            text-align: center;
+            font-size: 7em;
+            font-weight: bold;
+            margin-bottom: 0px;
+        }
+
+        .sub-title {
+            text-align: center;
+            font-size: 3em;
+            margin-top: 0px;
+        }
+
+        .list-title {
+            text-align: left;
+            font-size: 3em;
+            margin-left: 1em;
+            margin-bottom: 0.5em;
+        }
+
+        .list {
+            text-align: left;
+            font-size: 2em;
+            margin-left: 2em;
+            margin-top: 0.5em;
+        }
+
+        .section-title {
+            font-size: 6em;
+            font-weight: bold;
+            margin: 0;
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .section-sub-title {
+            font-size: 3em;
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .song-title {
+            font-size: 4em;
+            font-weight: bold;
+            margin: 0;
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .song-verse-large {
+            text-align: center;
+            font-size: 4em;
+            margin: 0;
+        }
+
+        .song-verse {
+            text-align: center;
+            font-size: 3em;
+            margin: 0;
+        }
+
+        .song-verse-small {
+            text-align: center;
+            font-size: 2em;
+            margin: 0;
+        }
+
+        .title-left {
+            text-align: left;
+            font-size: xx-large;
+            padding-left: 50px;
+        }
+
+        .title-center {
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .right-footer {
+            position: absolute;
+            right: 0;
+            padding-right: 20px;
+        }
